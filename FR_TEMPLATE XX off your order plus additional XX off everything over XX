@@ -51,7 +51,7 @@
 	<div class="pd__xxoffplusxxover-tile">
 		<div class="pd__xxoffplusxxover-tile-content-wrapper">
 			<div class="pd__xxoffplusxxover-tile-super-title">en ligne seulement.</div>
-			<div class="pd__xxoffplusxxover-tile-super-title">l'offre prend fin le 7 XX/XX</div>
+			<div class="pd__xxoffplusxxover-tile-super-title">l'offre prend fin le X XXX</div>
 			<div class="pd__xxoffplusxxover-title-wrapper">
 				<div class="pd__xxoffplusxxover-tile-title">rabais de xx %,</div>
 				<div class="pd__xxoffplusxxover-tile-sub-title" style="font-weight:400">sur ton achat</div>
@@ -59,6 +59,6 @@
 				<div class="pd__xxoffplusxxover-tile-title">rabais additionnel de xx %</div>
 				<div class="pd__xxoffplusxxover-tile-sub-title">SUR TOUT LORSQUE TU D&#201;PENSES XX $ CA</div>
 			</div>
-			<div class="pd__xxoffplusxxover-tile-code-text">saisir le code <span>xxxxx</span></div>
+			<div class="pd__xxoffplusxxover-tile-code-text">code <span>xxxxx</span></div>
 		</div>
 	</div>
