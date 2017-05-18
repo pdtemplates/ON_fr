@@ -46,10 +46,10 @@
 	<div class="pd__xxOffItem-tile">
 		<div class="pd__xxOffItem-tile-content-wrapper">
 			<div class="pd__xxOffItem-tile-super-title">en ligne seulement.</div>
-			<div class="pd__xxOffItem-tile-super-title">AUJOURD'HUI S&#201;ULEMENT. LE 7 JUILLET.</div>
+			<div class="pd__xxOffItem-tile-super-title">AUJOURD'HUI SEULEMENT.</div>
 			<div class="pd__xxOffItem-tile-title">profite d'un rabais<br />
 				de xx % sur un article</div>
 			<div class="pd__xxOffItem-tile-sub-title">sans exclusions!</div>
-			<div class="pd__xxOffItem-tile-code-text">saisir le code <span>xxxxx</span></div>
+			<div class="pd__xxOffItem-tile-code-text">code <span>xxxxx</span></div>
 		</div>
 	</div>
